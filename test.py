@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 print("world")
-=======
-print("Hello")
->>>>>>> develop
 def display_string(text: str) -> None:
     #The function takes a text string and prints it to the console using print()
     """Prints the given string."""
