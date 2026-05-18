@@ -10,6 +10,7 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+.vs/
 
 # Logs and databases
 *.log
